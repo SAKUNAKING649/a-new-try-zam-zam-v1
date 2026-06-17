@@ -1,6 +1,6 @@
 {
   "$schema": "https://unpkg.com/wrangler@latest/config-schema.json",
-  "name": "my-app",
+  "name": "server029485649384353032073845y73652544",
   "main": ".output/server/index.mjs",
   "compatibility_date": "2025-06-01",
   "compatibility_flags": ["nodejs_compat"],
